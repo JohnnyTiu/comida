@@ -1,0 +1,12 @@
+﻿  login.cpp
+C:\comida\comida\login.h(107,10): error C3149: 'System::String': no se puede usar este tipo aquí sin un objeto '^' de nivel superior
+C:\comida\comida\login.h(107,19): error C3149: 'System::String': no se puede usar este tipo aquí sin un objeto '^' de nivel superior
+C:\comida\comida\login.h(109,13): error C2440: '=': no se puede realizar la conversión de 'System::Windows::Forms::TextBox ^' a 'System::String ^'
+C:\comida\comida\login.h(109,13): message : No hay un operador de conversión definida por el usuario disponible, o
+C:\comida\comida\login.h(109,13): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función entre paréntesis
+C:\comida\comida\login.h(110,12): error C2440: '=': no se puede realizar la conversión de 'System::Windows::Forms::TextBox ^' a 'System::String ^'
+C:\comida\comida\login.h(110,12): message : No hay un operador de conversión definida por el usuario disponible, o
+C:\comida\comida\login.h(110,12): message : Los tipos señalados no están relacionados; la conversión requiere reinterpret_cast, conversión de estilo de C o conversión de estilo de función entre paréntesis
+  menu_principal.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
